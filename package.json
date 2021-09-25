@@ -1,0 +1,30 @@
+{
+  "name": "sprint_1",
+  "version": "1.0.0",
+  "description": "Desarrollo Sprint 1 ciclo 3 UPB MINTIC2022",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",    
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annubis1709/Grupo_3_Sprint_1.git"
+  },
+  "keywords": [
+    "Sprint",
+    "1",
+    "proyecto",
+    "productos"
+  ],
+  "author": "Sanchez Sanchez Edier , Montoya Vásquez Santiago, Rincon Tolosa Alvaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annubis1709/Grupo_3_Sprint_1/issues"
+  },
+  "homepage": "https://github.com/Annubis1709/Grupo_3_Sprint_1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
